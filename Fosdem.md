@@ -4,7 +4,7 @@
 
 Afgelopen weekend, op 1 en 2 februari, zijn Louis Hertleer en ik naar Brussel gereisd om FOSDEM 2025 bij te wonen, een van de grootste open-source conferenties ter wereld. We namen de trein vroeg in de ochtend om optimaal van de dag te kunnen profiteren.
 
-![Treinreis naar Brussel](fotos/to/train_to_brussels.jpg)
+![Treinreis naar Brussel](fotos/train_to_brussels.jpg)
 
 ## Dag 1: Lezingen en Ontdekkingen
 
