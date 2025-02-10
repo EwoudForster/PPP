@@ -72,4 +72,4 @@ FOSDEM 2025 was een ongelooflijk leerzaam en inspirerend weekend. We hebben ons 
 
 ![Groepsfoto op FOSDEM](fotos/group_photo_fosdem.jpg)
 
-[![Linkedin Post](fotos/fosdemLinkedin.jpg)]([fotos/certificate.pdf](https://www.linkedin.com/feed/update/urn:li:activity:7293329037379129345/))
+[![Linkedin Post](fotos/fosdemLinkedin.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7293329037379129345/)
