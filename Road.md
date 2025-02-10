@@ -51,4 +51,4 @@ De **UNIZO Startersroadshow** was een waardevolle ervaring die ons inspireerde e
 
 ## LinkedIn Post
 
-[![Linkedin Post](fotos/roadLinkedin.jpg)]([https://www.linkedin.com/feed/update/urn:li:activity:7282346401458470914/])
+[![Linkedin Post](fotos/roadLinkedin.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7282346401458470914/)
