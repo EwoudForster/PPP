@@ -48,3 +48,7 @@ De avond werd afgesloten met een gezellige netwerkborrel. Hier spraken we opnieu
 De **UNIZO Startersroadshow** was een waardevolle ervaring die ons inspireerde en motiveerde om verder te bouwen aan onze ondernemersreis. We kijken alvast uit naar toekomstige evenementen en verdere groeimogelijkheden!
 
 ![Foto van Louis en mij bij C-Mine](fotos/c-mine.jpg)
+
+## LinkedIn Post
+
+[![Linkedin Post](fotos/roadLinkedin.jpg)]([https://www.linkedin.com/feed/update/urn:li:activity:7282346401458470914/])
