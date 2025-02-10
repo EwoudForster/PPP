@@ -99,3 +99,5 @@ Deze cursus is bedoeld om me de basisprincipes van Tableau bij te brengen, een k
 
 - **Parameters**
   - Voeg flexibiliteit toe aan je visualisaties; laat gebruikers waarden aanpassen.
+
+[![PDF certificaat](fotos/pdf.jpg)](fotos/certificate.pdf)
