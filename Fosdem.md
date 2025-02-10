@@ -71,3 +71,5 @@ Tot slot bezochten we de stand van **Let's Encrypt**, een dienst die gratis SSL-
 FOSDEM 2025 was een ongelooflijk leerzaam en inspirerend weekend. We hebben ons uitstekend vermaakt, veel bijgeleerd en nieuwe contacten gelegd.
 
 ![Groepsfoto op FOSDEM](fotos/group_photo_fosdem.jpg)
+
+[![Linkedin Post](fotos/fosdemLinkedin.jpg)]([fotos/certificate.pdf](https://www.linkedin.com/feed/update/urn:li:activity:7293329037379129345/))
