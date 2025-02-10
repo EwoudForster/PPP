@@ -1,5 +1,5 @@
 # PPP
-## Welkom bij de Professional Skills Opdracht
+## Welkom bij mijn Professional Skills Opdracht
 
 Welkom bij mijn PPP opdracht voor Professional Skills. Hieronder vindt u links naar de verschillende activiteiten die ik heb gedaan voor deze opdracht:
 
